@@ -25,7 +25,7 @@ public class BiographyPageRenderer implements PageRenderer {
                 + "  <h1>" + student.getFullName() + "</h1>\n"
                 + "  <h2>" + student.getStudentNo() + "</h2>\n"
                 + "  <p>Merhaba! Ben <span class=\"vurgu\">" + student.getFullName() + "</span>. "
-                + "İstanbul'da yaşıyorum ve bilgisayar programcılığı/mühendisliği alanında eğitim görüyorum.</p>\n"
+                + "İstanbul'da yaşıyorum ve Yazılım Mühendisliği alanında eğitim görüyorum.</p>\n"
                 + "  <p>Yazılım geliştirme, ağ programlama ve yeni teknolojiler öğrenmek en büyük ilgi alanlarım arasında.</p>\n"
                 + "  <p class=\"not\">Bu sayfa, hiçbir hazır web sunucusu kullanılmadan, sadece Java Socket sınıfları ile üretilmiştir.</p>\n"
                 + "</body>\n"
